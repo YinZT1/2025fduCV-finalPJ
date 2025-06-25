@@ -1,0 +1,1 @@
+Namespace(data_device='cpu', eval=True, images='images', model_path='output/naruto', resolution=-1, sh_degree=3, source_path='/root/autodl-tmp', white_background=True)
